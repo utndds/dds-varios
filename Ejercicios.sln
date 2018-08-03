@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cuentas", "objetos-Cuentas\Cuentas.csproj", "{9878F115-C14B-4079-AC4A-151850B710C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aves", "solid-aves\Aves\Aves\Aves.csproj", "{73D9B812-7232-436B-AE35-C0B2F5C8CDE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvesStrategy", "solid-aves\AvesStrategy\AvesStrategy\AvesStrategy.csproj", "{814CF6C3-5637-4468-853E-6D333288F095}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9878F115-C14B-4079-AC4A-151850B710C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9878F115-C14B-4079-AC4A-151850B710C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9878F115-C14B-4079-AC4A-151850B710C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9878F115-C14B-4079-AC4A-151850B710C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73D9B812-7232-436B-AE35-C0B2F5C8CDE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73D9B812-7232-436B-AE35-C0B2F5C8CDE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73D9B812-7232-436B-AE35-C0B2F5C8CDE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73D9B812-7232-436B-AE35-C0B2F5C8CDE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{814CF6C3-5637-4468-853E-6D333288F095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{814CF6C3-5637-4468-853E-6D333288F095}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{814CF6C3-5637-4468-853E-6D333288F095}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{814CF6C3-5637-4468-853E-6D333288F095}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

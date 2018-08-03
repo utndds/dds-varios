@@ -1,0 +1,9 @@
+C:\xampp\htdocs\aves\AvesStrategy\AvesStrategy\bin\Debug\AvesStrategy.exe.config
+C:\xampp\htdocs\aves\AvesStrategy\AvesStrategy\obj\Debug\AvesStrategy.csprojResolveAssemblyReference.cache
+C:\xampp\htdocs\aves\AvesStrategy\AvesStrategy\bin\Debug\AvesStrategy.exe
+C:\xampp\htdocs\aves\AvesStrategy\AvesStrategy\bin\Debug\AvesStrategy.pdb
+C:\xampp\htdocs\aves\AvesStrategy\AvesStrategy\obj\Debug\AvesStrategy.exe
+C:\xampp\htdocs\aves\AvesStrategy\AvesStrategy\obj\Debug\AvesStrategy.pdb
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Equipo-Docente-DDS-UTN\Resolucion de ejercicios\Aves (.NET)\AvesStrategy\AvesStrategy\bin\Debug\AvesStrategy.exe.config
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Equipo-Docente-DDS-UTN\Resolucion de ejercicios\Aves (.NET)\AvesStrategy\AvesStrategy\obj\Debug\AvesStrategy.exe
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Equipo-Docente-DDS-UTN\Resolucion de ejercicios\Aves (.NET)\AvesStrategy\AvesStrategy\obj\Debug\AvesStrategy.pdb
