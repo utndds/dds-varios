@@ -19,3 +19,6 @@ C:\Users\user\Documents\GitHub\objetos-cuentas\Cuentas\obj\Debug\Cuentas.pdb
 C:\Users\user\Documents\GitHub\objetos-cuentas\objetos-Cuentas\bin\Debug\Cuentas.exe.config
 C:\Users\user\Documents\GitHub\objetos-cuentas\objetos-Cuentas\obj\Debug\Cuentas.exe
 C:\Users\user\Documents\GitHub\objetos-cuentas\objetos-Cuentas\obj\Debug\Cuentas.pdb
+C:\Users\user\Documents\GitHub\dds-varios\objetos-Cuentas\bin\Debug\Cuentas.exe.config
+C:\Users\user\Documents\GitHub\dds-varios\objetos-Cuentas\obj\Debug\Cuentas.exe
+C:\Users\user\Documents\GitHub\dds-varios\objetos-Cuentas\obj\Debug\Cuentas.pdb
